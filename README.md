@@ -1,6 +1,6 @@
 # Koleksi Proyek Python
 
-Selamat datang di repositori **Koleksi Proyek Python**! 🎉  
+Selamat datang di repositori **Koleksi Proyek Python**!  
 Repositori ini berisi kumpulan proyek Python yang telah saya kembangkan. Setiap proyek memiliki tujuan dan fungsionalitas yang berbeda, yang dapat membantu dalam mempelajari dan memahami berbagai konsep dalam pemrograman Python.  
 
 ---
