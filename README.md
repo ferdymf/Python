@@ -5,8 +5,11 @@ Repositori ini berisi kumpulan proyek Python yang telah saya kembangkan. Setiap 
 
 ---
 
-**✳️ Pengenalan Python**
-- ✳️ **Pengenalan_python.py** – Kumpulan materi pengenalan dasar Python, termasuk tipe data, struktur kontrol, dan fungsi. Cocok untuk pemula yang ingin belajar bahasa pemrograman Python.
+**✳️ Pengenalan Python**  
+- ✳️ **Pengenalan_python.py** – Kumpulan materi pengenalan dasar Python, termasuk tipe data, struktur kontrol, dan fungsi. Cocok untuk pemula yang ingin belajar bahasa pemrograman Python.  
+
+**❤️ Kecocokan Cinta**  
+- ❤️ **Kecocokan_cinta.py** – Program untuk mengukur kecocokan cinta antara dua nama secara acak.  
 
 **🎵 Program Lirik Lagu**  
 - 🎶 **Berlari_Bernadya.py** – Menampilkan lirik lagu *Berlari* - Bernadya.  
@@ -25,16 +28,16 @@ Repositori ini berisi kumpulan proyek Python yang telah saya kembangkan. Setiap 
 
 Ikuti langkah-langkah berikut untuk menjalankan salah satu proyek di atas:
 
-1️. Pastikan Anda memiliki **Python** terinstal di komputer Anda. Jika belum, unduh dari [python.org](https://www.python.org/).  
-2️. Clone repositori ini ke komputer Anda dengan perintah berikut:  
+1️⃣ Pastikan Anda memiliki **Python** terinstal di komputer Anda. Jika belum, unduh dari [python.org](https://www.python.org/).  
+2️⃣ Clone repositori ini ke komputer Anda dengan perintah berikut:  
    ```bash
    git clone https://github.com/ferdymf/Python.git
    ```
-3️. Masuk ke direktori proyek yang ingin dijalankan:
-  ```bash
-  cd Python
-  ```
-4️. Jalankan program dengan perintah berikut:
-  ```bash
-  python nama_proyek.py
-  ```
+3️⃣ Masuk ke direktori proyek yang ingin dijalankan:
+   ```bash
+   cd Python
+   ```
+4️⃣ Jalankan program dengan perintah berikut:
+   ```bash
+   python nama_proyek.py
+   ```
