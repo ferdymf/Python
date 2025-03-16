@@ -28,16 +28,16 @@ Repositori ini berisi kumpulan proyek Python yang telah saya kembangkan. Setiap 
 
 Ikuti langkah-langkah berikut untuk menjalankan salah satu proyek di atas:
 
-1️⃣ Pastikan Anda memiliki **Python** terinstal di komputer Anda. Jika belum, unduh dari [python.org](https://www.python.org/).  
-2️⃣ Clone repositori ini ke komputer Anda dengan perintah berikut:  
+1️. Pastikan Anda memiliki **Python** terinstal di komputer Anda. Jika belum, unduh dari [python.org](https://www.python.org/).  
+2️. Clone repositori ini ke komputer Anda dengan perintah berikut:  
    ```bash
    git clone https://github.com/ferdymf/Python.git
    ```
-3️⃣ Masuk ke direktori proyek yang ingin dijalankan:
+3️. Masuk ke direktori proyek yang ingin dijalankan:
    ```bash
    cd Python
    ```
-4️⃣ Jalankan program dengan perintah berikut:
+4️. Jalankan program dengan perintah berikut:
    ```bash
    python nama_proyek.py
    ```
